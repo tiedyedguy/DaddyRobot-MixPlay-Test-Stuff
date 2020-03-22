@@ -14,7 +14,7 @@ window.addEventListener("load", function initMixer() {
     //  videoOverlay.style.width = `${position.width}px`;
   });
   mixer.isLoaded();
-  setInterval(randommove, 1000);
+  //setInterval(randommove, 1000);
 });
 
 function randommove() {
